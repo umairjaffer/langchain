@@ -42,7 +42,3 @@ To get started with this repository, you'll need the following dependencies:
 - `openai`
 - `faiss-cpu`
 - `tiktoken`
-
-Install the dependencies by running:
-```bash
-pip install -r requirements.txt
